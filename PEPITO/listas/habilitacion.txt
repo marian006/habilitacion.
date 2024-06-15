@@ -1,0 +1,9 @@
+Buenos días Mariana,
+
+Sustentación Programación 2 - Proyecto sistemas de Aeropuerto con Listas Enlazadas:
+
+Agregar un atributo de mascota VIP, si la mascota es VIP, tiene un descuento del 15% sobre el valor del tiquete. Por cada mascota ingresada al sistema se debe preguntar si es VIP o no.
+
+Utilizando las listas del programa creadas por usted, calcular el total de dinero acumulado por concepto de  descuento de mascotas VIP.
+
+Un saludo,
